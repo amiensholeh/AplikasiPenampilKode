@@ -1,2 +1,2 @@
 # PenampilKode
-hactoberfest
+hacktoberfest
