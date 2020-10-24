@@ -1,6 +1,5 @@
 # PenampilKode
 hacktoberfest
-makasih bg mastah
-
+AKU UDAH SUBSCRIBE BG
 
 test
