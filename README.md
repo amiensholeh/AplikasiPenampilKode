@@ -6,4 +6,3 @@ Makasih
 
 test
 test1
-test2
